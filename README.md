@@ -17,7 +17,8 @@ During the project, the work was divided according to knowledge and available fr
 # <ins>H.I.A. és O.Z. Amőbája</ins> <sub>(Magyar)</sub>
 
 ## Leírás
-Ez a Python program képes egy 10-szer 10-es amőba táblát készíteni, a játékosok lépéseit rögzíteni és ellenőrizni, hogy a játékosok melyike nyert.
+Ez a Python program képes egy 10-szer 10-es amőba táblát készíteni, a játékosok lépéseit rögzíteni és ellenőrizni, hogy a játékosok melyike nyert. 
+A fejlesztéshez a [Visual Studio Code](https://code.visualstudio.com/ )-ot használtuk.
 ## Fejlesztők
 Ezt a programot Hegedűs István András és Oreskó Zétény fejlesztette.
 ## Munkafelosztás
