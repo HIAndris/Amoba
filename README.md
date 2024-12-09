@@ -2,8 +2,9 @@
 
 ## Description
 This Python script is able to make a 10 by 10 square tik-tak-toe board, manage the players placed squares and check for the winner.
+We both used [Visual Studio Code](https://code.visualstudio.com/ ) for the development and the codes were written in the [Python](https://www.python.org/ ) language.
 ## Developers
-The developers of this script is István András Hegedűs and Zétény Oreskó
+The developers of this project is [Zétény Oreskó](https://github.com/Lime948 ) and [István András Hegedűs](https://github.com/HIAndris ).
 ## Division of work
 During the project, the work was divided according to knowledge and available free time.
 ### Duties:
@@ -14,13 +15,13 @@ During the project, the work was divided according to knowledge and available fr
 - István András Hegedűs: creating the module for the game
 - Oreskó zétény: calling and using the module, creating a multi-line vertical and horizontal center function
 
-# <ins>H.I.A. és O.Z. Amőbája</ins> <sub>(Magyar)</sub>
+# <ins>H.I.A. és O.Z. Amőba programja</ins> <sub>(Magyar)</sub>
 
 ## Leírás
 Ez a Python program képes egy 10-szer 10-es amőba táblát készíteni, a játékosok lépéseit rögzíteni és ellenőrizni, hogy a játékosok melyike nyert. 
-A fejlesztéshez a [Visual Studio Code](https://code.visualstudio.com/ )-ot használtuk.
+A fejlesztéshez a [Visual Studio Code](https://code.visualstudio.com/ )-ot használtuk, a kódok [Python](https://www.python.org/ ) nyelven íródtak.
 ## Fejlesztők
-Ezt a programot Hegedűs István András és Oreskó Zétény fejlesztette.
+Ezt a projektet [Oreskó Zétény](https://github.com/Lime948 ) és [Hegedűs István András](https://github.com/HIAndris ) fejlesztette.
 ## Munkafelosztás
 A projekt alatt a munkát tudás és rendelkezésre álló szabadidő szerint osztottuk fel.
 ### Feladatok:
